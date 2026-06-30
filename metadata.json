@@ -1,0 +1,6 @@
+{
+  "name": "3D插花艺术",
+  "description": "一款支持物理碰撞、多种花卉与花瓶选择的3D自主插花设计软件。支持剑山、花瓶、花泥等多种固定方式，感受逼真的插花物理效果和三维视觉体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
